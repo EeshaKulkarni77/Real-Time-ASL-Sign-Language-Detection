@@ -136,6 +136,7 @@ Horizontal flipping is avoided to preserve the semantic meaning of ASL signs.
 ## How to Run
 
 1. Clone the repository:
+`git clone https://github.com/EeshaKulkarni77/Real-Time-ASL-Sign-Language-Detection.git`
 
 2. Open the notebook:
 `RT_ASL_Detection.ipynb`
